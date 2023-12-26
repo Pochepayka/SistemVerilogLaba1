@@ -59,3 +59,5 @@ logic [31:0] apb_read (logic [31:0] inp_addr);
 Commit task2: Добавлен файл task2.py выводящий строку "task3"
 
 Commit task3: Добавлен в файл task2.py вывод строки "task3" и файл task3.py выводящий строку "task3"
+
+Commit task5: Добавлен в файл task2.py вывод строки "task5" и файл task5.py выводящий строку "task5"
