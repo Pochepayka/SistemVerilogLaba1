@@ -53,7 +53,7 @@ initial begin
 //ЗАПИСЬ
 PCLK = 0;
 PWRITE_MASTER = 1;         // выбираем запись
-PWDATA_MASTER = 19;         // в данные для записи записываем 19
+PWDATA_MASTER = 25;         // в данные для записи записываем 19
 PADDR_MASTER = 0;           // выбираем адрес регистра number_in_group
 @(posedge PCLK);
 @(posedge PCLK);
